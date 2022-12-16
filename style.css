@@ -24,6 +24,104 @@ body {
     align-items: center;
 }
 
+.font-box {
+    background-color: white;
+    border: 5px solid mediumslateblue;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.labelleaurore-text {
+    font-family: 'La Belle Aurore';
+    font-size: 70px;
+    font-weight: normal;
+    padding-left: 40px;
+    text-decoration: underline;
+}
+
+.labelleaurore-textn {
+    font-family: 'La Belle Aurore';
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 40px;
+}
+
+.labelleaurore-textb {
+    font-family: 'La Belle Aurore';
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 40px; 
+}
+
+.labelleaurore-texti {
+    font-family: 'La Belle Aurore';
+    font-size: 50px;
+    font-style: italic;
+    padding-left: 40px; 
+}
+
+.heebo-text {
+    font-family: 'Heebo';
+    font-size: 70px;
+    font-weight: normal;
+    padding-left: 40px;
+    text-decoration: underline;
+}
+
+.heebo-textn {
+    font-family: 'Heebo';
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 40px;
+    text-decoration: none;
+}
+
+.heebo-textb {
+    font-family: 'Heebo';
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 40px;
+    text-decoration: none;
+}
+
+.heebo-texti {
+    font-family: 'Heebo';
+    font-size: 50px;
+    font-style: italic;
+    padding-left: 40px;
+    text-decoration: none;
+}
+
+.josefinsans-text {
+    font-family: 'Josefin Sans';
+    font-size: 70px;
+    font-weight: normal;
+    padding-left: 40px;
+    text-decoration: underline;
+}
+
+.josefinsans-textn {
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 40px;
+}
+
+.josefinsans-textb {
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+.josefinsans-texti {
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+    font-style: italic;
+    padding-left: 40px;
+}
+
 .subheader {
     font-family: Montserrat;
     font-size: 50px;
@@ -69,4 +167,40 @@ figcaption {
     color: black;
     width: 275px;
     text-align: left;
+}
+
+.textstyle-box {
+    background-color: white;
+    border: 5px solid mediumslateblue;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.mainheader-style {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Josefin Sans;
+    padding-left: 40px;
+}
+
+.subheader-style {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Heebo;
+    padding-left: 40px;
+}
+
+.paragraph-style {
+    font-weight: 400;
+    font-size: 15px;
+    font-family: La Belle Aurore;
+    padding-left: 40px;
+}
+
+.list-style {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: normal;
+    padding-left: 80px;
 }
