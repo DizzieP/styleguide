@@ -1,0 +1,72 @@
+body {
+    background-image: linear-gradient(lightblue, white);
+}
+
+.mainheader {
+    font-family: 'Rubik Puddles';
+    text-align: center;
+    color: mediumslateblue;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.color-box {
+    display: flex;
+    background-color: white;
+    border: 5px solid mediumslateblue;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-top: 40px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.subheader {
+    font-family: Montserrat;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin: auto;
+}
+
+.goldenbrown {
+    width: 275px;
+    height: 275px;
+}
+
+.magenta {
+    width: 275px;
+    height: 275px;
+}
+
+.blue {
+    width: 275px;
+    height: 275px;
+}
+
+.mediumcyan {
+    width: 275px;
+    height: 275px;
+} 
+
+.darkcyan {
+    width: 275px;
+    height: 275px;
+}
+
+figure {
+    width: 275px;
+    height: 350px;
+}
+
+figcaption {
+    font-family: Montserrat;
+    font-size: 14px;
+    color: black;
+    width: 275px;
+    text-align: left;
+}
